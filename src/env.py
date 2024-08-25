@@ -1,7 +1,7 @@
-PATH = '/Users/cleme/PycharmProjects/Coding_Weeks/Twitter_Fake_News_Detection'
-PATH_DATA = '/Users/cleme/PycharmProjects/Coding_Weeks/Twitter_Fake_News_Detection/data'
+PATH = 'PATH TO MAIN DIRECTORY'
+PATH_DATA = 'PATH TO DATA FILE'
 
-PATH_DATASET_TRAIN = '/Users/cleme/PycharmProjects/Coding_Weeks/Twitter_Fake_News_Detection/data/kaggle/train.csv'
-PATH_DATA_JSON = '/Users/cleme/PycharmProjects/Coding_Weeks/Twitter_Fake_News_Detection/data/tweets_elonmusk.json'
+PATH_DATASET_TRAIN = 'PATH TO TRAINING DATASET'
+PATH_DATA_JSON = 'PATH TO ANOTHER DATASET'
 
-PATH_TRAINED_MODEL = '/Users/cleme/PycharmProjects/Coding_Weeks/Twitter_Fake_News_Detection/config/trained_model.joblib'
+PATH_TRAINED_MODEL = 'PATH TO TRAINED MODEL'
