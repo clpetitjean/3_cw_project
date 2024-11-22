@@ -56,9 +56,7 @@ We list here the necessary packages for this project :
 You will need a directory config, where the parameters of the trained classifier model will be stored.
 
 
-```
-
-## Usage
+### Usage
 
 To run the program, run the main function in your IDE
 
